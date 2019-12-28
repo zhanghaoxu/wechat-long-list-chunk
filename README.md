@@ -4,7 +4,7 @@
 # 快速上手
 
 ## 微信版本库要求
-微信版本库 >= 2.2.3
+微信版本库 >= 1.9.3
 
 ## 使用之前
 
@@ -16,7 +16,7 @@
 
 ### 方式一. 通过 npm 安装
 
-通过 `npm` 安装，需要依赖小程序基础库 `2.2.3` 以上版本，同时依赖开发者工具的 `npm` 构建，[详见 npm 支持](https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html)。
+通过 `npm` 安装，需要依赖小程序基础库 `2.2.1` 以上版本，同时依赖开发者工具的 `npm` 构建，[详见 npm 支持](https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html)。
 
 ```bash
 # Using npm
