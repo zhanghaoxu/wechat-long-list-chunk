@@ -1,0 +1,3 @@
+<block wx:for="{{list}}" wx:key="index">
+    <card item="{{item}}"></card>
+</block>

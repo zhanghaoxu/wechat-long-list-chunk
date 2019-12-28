@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "wechat-long-list-chunk": "wechat-long-list-chunk",
+    "card-list":"./components/CardList/index"
+  }
+}

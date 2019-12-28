@@ -1,0 +1,8 @@
+<!--具体业务列表-->
+<view bindtap="onTap">{{otherData.name}}</view>
+<view wx:for="{{list}}" wx:key="index">
+  <view style="height: {{item.height}}px; line-height: {{item.height}}px" class="card">
+    高度：{{item.height}}
+  </view>
+</view>
+<!--具体业务列表-->

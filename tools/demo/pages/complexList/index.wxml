@@ -1,0 +1,14 @@
+
+<view class="uni-list">
+
+    <wechat-long-list-chunk 
+        wx:for="{{list}}" 
+        wx:key="index"
+        chunk-id="{{'chunk_id_'+index}}"
+        showLogInfo="{{true}}"
+        >
+        <card-list list="{{item}}"></card-list>
+    </wechat-long-list-chunk>
+
+</view>
+

@@ -1,0 +1,5 @@
+<view class="list-item" id="{{_chunkPrefix+chunkId}}" style="min-height: {{height}}px;">
+    <block wx:if="{{showChunk}}">
+        <slot></slot>
+    </block>
+</view>
