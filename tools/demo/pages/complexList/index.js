@@ -12,7 +12,7 @@ Page({
   },
 
   loadMore() {
-    const demoList = this.getList(10)
+    const demoList = this.getList(20)
     this.setData({
       [`list[${this.data.list.length}]`]: demoList
     })
