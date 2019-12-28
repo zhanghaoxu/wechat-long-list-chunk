@@ -3,6 +3,19 @@
     "pages/index/index",
     "pages/complexList/index"
   ],
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "简单示例",
+      "iconPath":"static/imgs/home.png",
+      "selectedIconPath":"static/imgs/home_on.png"
+    }, {
+      "pagePath": "pages/complexList/index",
+      "text": "复杂示例",
+      "iconPath":"static/imgs/mine.png",
+      "selectedIconPath":"static/imgs/mine_on.png"
+    }]
+  },
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
