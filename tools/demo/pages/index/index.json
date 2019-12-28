@@ -1,4 +1,5 @@
 {
+  "navigationBarTitleText": "使用wechat-long-list-chunk简单示例",
   "usingComponents": {
     "wechat-long-list-chunk": "wechat-long-list-chunk",
     "card-list":"./components/CardList/index"

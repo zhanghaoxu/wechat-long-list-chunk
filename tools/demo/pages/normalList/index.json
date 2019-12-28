@@ -1,5 +1,5 @@
 {
-    "navigationBarTitleText": "仿微博 - 使用wechat-long-list-chunk",
+    "navigationBarTitleText": "仿微博 - 普通列表",
     "enablePullDownRefresh": true,
     "backgroundTextStyle": "dark",
     "usingComponents": {

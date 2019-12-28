@@ -1,6 +1,7 @@
 {
   "pages": [
     "pages/index/index",
+    "pages/normalList/index",
     "pages/complexList/index"
   ],
   "tabBar": {
@@ -10,6 +11,11 @@
       "iconPath":"static/imgs/home.png",
       "selectedIconPath":"static/imgs/home_on.png"
     }, {
+      "pagePath": "pages/normalList/index",
+      "text": "不使用组件",
+      "iconPath":"static/imgs/mine.png",
+      "selectedIconPath":"static/imgs/mine_on.png"
+    },{
       "pagePath": "pages/complexList/index",
       "text": "复杂示例",
       "iconPath":"static/imgs/mine.png",

@@ -1,0 +1,8 @@
+
+<view class="uni-list">
+    <card-list wx:for="{{list}}" 
+        wx:key="index"
+        list="{{item}}"></card-list>
+
+</view>
+
